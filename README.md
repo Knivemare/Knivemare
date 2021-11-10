@@ -1,7 +1,7 @@
-<h1>Hi there 🤙🏼</h1>
+### Hi there 🤙🏼
 
 ## About Me
-- MD & Hobby-<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>
+- 🧑🏽‍⚕️ & 👨🏽‍💻
 <!--
 **Knivemare/Knivemare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## My Production Apps
 - [EasyBenefit](https://easybenefit.de)
 - [TechUpgrade](https://techupgrade.de)
-- [Knivemare](https://knivemare.de)
