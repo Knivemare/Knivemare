@@ -1,6 +1,6 @@
 # Hi there 🤙🏼
 
-## 👨🏽‍⚕️ / 👨🏽‍💻About Me
+## 👨🏽‍⚕️ / 👨🏽‍💻 About Me
 - MD by day (and night)
 - Hobby DEV as often as possible
 
